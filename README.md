@@ -22,7 +22,7 @@ Este pequeno sistema financeiro simula operações básicas de um banco, como de
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repo.git
+   git clone [https://github.com/seu-usuario/seu-repo.git](https://github.com/devlobao84/Desafio01_Sistema_Bancario_em_Python)
    ```
 2. Acesse o diretório:
    ```bash
@@ -30,7 +30,7 @@ Este pequeno sistema financeiro simula operações básicas de um banco, como de
    ```
 3. Execute o script Python:
    ```bash
-   python sistema_bancario.py
+   desafio01_sist-Finan.py
    ```
 
 ---
@@ -51,7 +51,7 @@ Este pequeno sistema financeiro simula operações básicas de um banco, como de
 
 ## 🎓 Projeto do Bootcamp
 
-Este projeto faz parte do conteúdo proposto no **Bootcamp "Potência Tech powered by iFood | Ciência de Dados com Python"** promovido pela [DIO](https://www.dio.me/) em parceria com a [Suzano](https://www.suzano.com.br/).
+Este projeto faz parte do conteúdo proposto no **Bootcamp "Suzano - Python Developer"** promovido pela [DIO](https://www.dio.me/) em parceria com a [Suzano](https://www.suzano.com.br/).
 
 ---
 
@@ -67,6 +67,6 @@ Este projeto faz parte do conteúdo proposto no **Bootcamp "Potência Tech power
 
 ## ✍️ Autor
 
-Desenvolvido com 💻 por **Lobão** – Designer de Produto, Desenvolvedor e Estudante de IA e Dados.  
+Desenvolvido com 💻 por ** Jonas Lobo [Lobão]** – UX/UI Designer, Desenvolvedor e Estudante de IA e Dados.  
 
 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/jonaslobo/)) | [GitHub]([https://github.com/seu-usuario](https://github.com/devlobao84))
